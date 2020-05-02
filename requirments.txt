@@ -1,0 +1,5 @@
+pyaudio
+pydub
+ffmpeg
+gtts
+pandas
